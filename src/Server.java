@@ -4,7 +4,7 @@ import java.net.*;
 
 public class Server
 {
-    private final static int PORT = 4444;
+    private final static int PORT = 3444;
     static ArrayList<PrintWriter> listOfOutputs;
 
     static
